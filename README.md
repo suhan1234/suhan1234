@@ -61,10 +61,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">📊 GitHub Activity:</h3>
 
-<p>
-    <td><img src="" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
-</p>
+
 
 
 <div align="center">
