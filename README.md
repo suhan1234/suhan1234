@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/suhan-b-96096a182/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suhan-kulal-96096a182/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:suhanbt@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/suhan_996_?igsh=OGQ5ZDc2ODk2ZA=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
