@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Full-Stack Developer based in Pune, India.
 - 📫 How to reach me: [suhanbt@gmail.com](suhanbt@gmail.com)
 - 🔗 Rocking a cool **20k+ connections** on LinkedIn, let's connect!
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://suhan.site)! 💻❤️
+- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://suhanproject.in)! 💻❤️
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
