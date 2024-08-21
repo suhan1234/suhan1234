@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="left">👋 Hi, I'm <a href="https://suhan.site" target="_blank"> Suhan B T </a></h1>
 <!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
 
-- 👨‍💻 Full-Stack Developer based in Pune, India.
+- 👨‍💻 Full-Stack Developer based in Mangalore, India.
 - 📫 How to reach me: [suhanbt@gmail.com](suhanbt@gmail.com)
 - 🔗 Rocking a cool **20k+ connections** on LinkedIn, let's connect!
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://suhanproject.in)! 💻❤️
